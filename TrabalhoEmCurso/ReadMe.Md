@@ -1,0 +1,1 @@
+Apontamentos diversos sobre risco de software.
